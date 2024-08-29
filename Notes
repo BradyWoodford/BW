@@ -1,0 +1,16 @@
+Creating a VE:
+1) Create your VE 
+MAC: Python3-m venv myvenv
+2) Activate your VE
+MAC: source myvenv/bin/activate
+3) Install 3rd Party Libraries
+MAC: pip3 install matplotlib
+
+!! Make sure python is running ('myvenv': venv) !!
+
+*(8/29/24)*
+Version Control: Talking about the project as a whole (website - logos, images, documentation, code)
+
+Source Control: Talking purely about the developmental aspect of the application (just the code)
+Example: clone existing versions (copy) of a repository in order to work on the same application (multiple peers); allows one to revert to a previous version in the event of a bug/crash
+
