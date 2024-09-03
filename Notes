@@ -14,3 +14,5 @@ Version Control: Talking about the project as a whole (website - logos, images, 
 Source Control: Talking purely about the developmental aspect of the application (just the code)
 Example: clone existing versions (copy) of a repository in order to work on the same application (multiple peers); allows one to revert to a previous version in the event of a bug/crash
 
+
+*(9/3/24)
